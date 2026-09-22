@@ -58,3 +58,7 @@ p {
 .flex-item {
     flex: 1;
 }
+/* Style links */
+a {
+    font-size: 18px;
+}
