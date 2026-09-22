@@ -62,3 +62,7 @@ p {
 a {
     font-size: 18px;
 }
+/* Add space around images */
+img {
+    margin-top: 10px;
+}
