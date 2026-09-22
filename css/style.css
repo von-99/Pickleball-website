@@ -1,0 +1,60 @@
+/* Main page style */
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Heading styles */
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+/* Paragraph style */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+/* Information sections */
+.info {
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+/* Important text */
+.highlight {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+/* Header section */
+#main-header {
+    background-color: darkgreen;
+    color: white;
+    padding: 20px;
+}
+
+/* Footer section */
+#main-footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Flexbox layout */
+.flex-container {
+    display: flex;
+    gap: 20px;
+}
+
+.flex-item {
+    flex: 1;
+}
